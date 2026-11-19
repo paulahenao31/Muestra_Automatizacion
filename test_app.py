@@ -19,7 +19,7 @@ def test_suma_numeros_negativos():
 
 
 def test_suma_cero():
-    assert suma(0, 5) == 99
+    assert suma(0, 5) == 5
 
 
 def test_saludo_contiene_nombre():
